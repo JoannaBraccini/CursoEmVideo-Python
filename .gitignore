@@ -1,0 +1,68 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# Packaging / distribution
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+nosetests.xml
+test-results/
+
+# Type checking / linters
+.mypy_cache/
+.pytype/
+.ruff_cache/
+pyrightconfig.json
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Logs & temp
+*.log
+logs/
+tmp/
+temp/
+
+# Tools
+.tox/
+.nox/
+.cache/
+.pip-cache/
+pip-wheel-metadata/
+
+# Editors / IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python version managers
+.python-version
+
+# Local overrides
+*.local
+*.secret
+secrets*/

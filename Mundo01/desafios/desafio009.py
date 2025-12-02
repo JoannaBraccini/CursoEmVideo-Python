@@ -15,7 +15,6 @@ print(num, 'x 9 =', num*9)
 print(num, 'x 10 =', num*10)
 
 #Solução
-num = int(input('Digite um número inteiro para ver sua tabuada: '))
 print('-'*12) #imprime 12 traços
 print('{} x {:2} = {}'.format(num, 1, num*1))
 print('{} x {:2} = {}'.format(num, 2, num*2))
