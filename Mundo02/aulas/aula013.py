@@ -1,4 +1,5 @@
-# Laços: estrutura de repetição for
+# Laços: estrutura de repetição FOR
+# Estrutura de repetição com variável de controle
 
 # for c in range(1, 10):
 #     if moeda: pega
